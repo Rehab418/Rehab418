@@ -8,7 +8,7 @@
 - 🎯 Passionate about transforming raw data into meaningful insights
 - 📊 I specialize in data cleaning, analysis, and visualization
 - 📍 Based in Egypt
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **rehab012341z@gmail.com**
 
 ---
 
