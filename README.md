@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rehab Ali Mahmoud 👋</h1>
-<h3 align="center">Data Analyst | Turning Data into Decisions</h3>
+<h3 align="center">Data Analyst & junior Data Engineer | Turning Data into Decisions</h3>
 
 ---
 
